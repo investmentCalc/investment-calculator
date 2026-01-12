@@ -49,4 +49,4 @@ These calculators are educational tools and do not provide financial, investment
 
 ## Contact or contributions
 
-If you identify a methodology issue, unclear documentation, or calculator behavior that should be explained more precisely, please open an issue or pull request in this repository. For questions related to the live website, use the contact options listed on https://investment-calculator.net.
+If you identify a methodology issue, unclear documentation, or calculator behavior that should be explained more precisely, please open an issue or pull request in this repository. For questions related to the live website, use the email info@investment-calculator.net.
